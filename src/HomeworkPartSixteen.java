@@ -18,7 +18,7 @@ public class HomeworkPartSixteen {
         int characterSilver = inputSilver * 100;
         double characterWood = inputWood;
         byte characterHealth = (byte) inputHealth;
-        byte characterHelpersNumber = (byte) (characterResources.hasHelper ? 1 : 0);
+        byte characterHelpersNumber = (byte) (characterResources.hasHelper ? 1 : 0); // Не понял часть этого кода,что за "?" знак
 
         // Установка значения characterHelpersNumber в зависимости от значения hasHelper
 
